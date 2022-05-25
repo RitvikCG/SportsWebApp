@@ -1,0 +1,14 @@
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\bin\Debug\netcoreapp2.1\SportsWebApplication1.deps.json
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\bin\Debug\netcoreapp2.1\SportsWebApplication1.runtimeconfig.json
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\bin\Debug\netcoreapp2.1\SportsWebApplication1.runtimeconfig.dev.json
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\bin\Debug\netcoreapp2.1\SportsWebApplication1.dll
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\bin\Debug\netcoreapp2.1\SportsWebApplication1.pdb
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\obj\Debug\netcoreapp2.1\SportsWebApplication1.csprojAssemblyReference.cache
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\obj\Debug\netcoreapp2.1\SportsWebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\obj\Debug\netcoreapp2.1\SportsWebApplication1.RazorAssemblyInfo.cache
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\obj\Debug\netcoreapp2.1\SportsWebApplication1.RazorAssemblyInfo.cs
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\obj\Debug\netcoreapp2.1\SportsWebApplication1.AssemblyInfoInputs.cache
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\obj\Debug\netcoreapp2.1\SportsWebApplication1.AssemblyInfo.cs
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\obj\Debug\netcoreapp2.1\SportsWebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\obj\Debug\netcoreapp2.1\SportsWebApplication1.dll
+C:\Users\ritvik.sharma\Desktop\.NET\SportsWebApplication1\SportsWebApplication1\obj\Debug\netcoreapp2.1\SportsWebApplication1.pdb

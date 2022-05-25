@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Web App</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+     <link rel="stylesheet" href="style.css">
+     
+</head>
+<body>
+    <div class="container">
+    <button type="button" class="btn btn-primary" onclick="expand()">Get By Id</button> <br><br>
+    <div class="open" id="getbyid">
+     <input class="id" type="text" placeholder="Enter ID" id="searchid">
+     <button type="button" class="btn btn-dark" onclick="singledata()">Submit</button>
+    </div> <br>
+    <button type="button" class="btn btn-primary" onclick="allrec()">Get All Records</button> <br> <br> <br>
+    <button type="button" class="btn btn-primary" onclick="expand2()">Insert Record</button> <br><br>
+    <div class="open" id="insertrec">
+     
+     <input class="id" type="text" placeholder="Sport Name" id="sportname">  
+     <input class="id" type="text" placeholder="Sport Type" id="sporttype">  
+     <input class="id" type="text" placeholder="Max Members" id="maxmembers">
+     <button type="button" class="btn btn-dark" onclick="sendJSON()">Submit</button>
+    </div><br>
+    <button type="button" class="btn btn-primary" onclick="expand3()">Search</button> <br><br>
+    <div class="open" id="searchbtn">
+        <input class="id" type="text" placeholder="Enter to Search" id="likeoperator">
+        <button type="button" class="btn btn-dark" onclick="like()">Submit</button>
+       </div> 
+   
+    
+    
+</div>
+
+<div id="show">
+    
+</div>
+ <script src="App.js"></script>
+</body>
+</html>

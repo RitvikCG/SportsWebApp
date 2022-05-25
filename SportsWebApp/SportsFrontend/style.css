@@ -1,0 +1,18 @@
+.container{
+   margin-left: 0px;
+   margin-top: 50px;
+}
+
+.open{
+    display: none;
+}
+.id{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#show{
+    margin: 20px;
+}
+body{
+    background-color: rgb(171, 159, 187);
+}
